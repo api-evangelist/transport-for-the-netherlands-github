@@ -39,7 +39,6 @@ apis:
   - name: Transport for The Netherlands
     description: "OVAPI, country-wide public transport"
     humanURL: https://github.com/skywave/KV78Turbo-OVAPI/wiki
-    baseURL: https://github.com/skywave/KV78Turbo-OVAPI/wiki
     tags:
       - Transportation
     properties:
